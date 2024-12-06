@@ -1,4 +1,4 @@
-# Rule_reversal_aPCx_feedback
+# RuleReversalaPCxFeedback
 # Code for aPCx to OB feedback rule reversal analysis
 
 # MATLAB language code with the pipeline and functions necessary to analyze the data published in
